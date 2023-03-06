@@ -1,0 +1,72 @@
+[
+{
+    "article": 1,
+    "name": "Item 1",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col1" 
+},
+{
+    "article": 2,
+    "name": "Item 2",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col2" 
+},
+{
+    "article": 3,
+    "name": "Item 3",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col3" 
+},
+{
+    "article": 4,
+    "name": "Item 4",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col4" 
+},
+{
+    "article": 5,
+    "name": "Item 5",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col5" 
+},
+{
+    "article": 6,
+    "name": "Item 6",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col6" 
+},
+{
+    "article": 7,
+    "name": "Item 7",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col7" 
+},
+{
+    "article": 8,
+    "name": "Item 8",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col8" 
+},
+{
+    "article": 9,
+    "name": "Item 9",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col9" 
+},
+{
+    "article": 10,
+    "name": "Item 10",
+    "price": "20$",
+    "img": "zzz",
+    "color": "col10" 
+}
+]
